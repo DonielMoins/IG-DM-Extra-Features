@@ -1,4 +1,7 @@
 # IG:DM Messenger+ (IDK what to call it)
+
+I Hope these would be implemented in the near future to the main branch.
+
 Multi-platform Desktop application for INSTAGRAM DMs, built with electron
 ![Build Status!](https://travis-ci.org/ifedapoolarewaju/igdm.svg?branch=master)
 
